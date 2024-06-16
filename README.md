@@ -117,13 +117,11 @@ The game follows the standard rules of Catan:
 
 
 ## Running commands:
-# To run the test you should run : 
+- ~To run the test you should run~ : 
 "make run_test"  or "make test->./test < input_test.txt"
-
-# To run the demo you should run : 
+- ~To run the demo you should run~ : 
 "make catan" command or "make demo->./demo < input_demo.txt"
-
-# To run valgrind you should run :
+- ~To run valgrind you should run~ :
   "make valgrind_test" - to detect memory leacks in the test file.
   "make valgrind_demo" - to detect memory leacks in the demo file.
 
