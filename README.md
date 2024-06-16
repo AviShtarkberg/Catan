@@ -1,4 +1,4 @@
-# ^Catan Game^ #
+# Catan Game #
 
 ## Project Description
 This C++ project is an implementation of the popular board game Catan. The game features a  game board where players collect and trade resources to build roads, settlements, and cities aiming to be the first to reach 10 victory points.
